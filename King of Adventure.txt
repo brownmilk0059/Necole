@@ -1,0 +1,5 @@
+// ISO Game: Moonlight Escape
+public class MoonlightEscape {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Moonlight Escape!");
+        // Add your Moonlight Escape game script here
